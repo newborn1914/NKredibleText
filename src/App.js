@@ -33,7 +33,7 @@ function App() {
             <Route path="/"
             element={
               <>
-            {<TextForm heading="Your Text Here!" mode={mode}/>}
+            {<TextForm heading="Enter your text!" mode={mode}/>}
             </>
           }
           />
